@@ -5,12 +5,10 @@ import numpy as np
 
 
 # write title
-st.title('Our First attempt at streamlit ')
+st.title('Our First attempt at streamlit. Yei it worked !!!!!! ')
 
 # write text
-st.write('I love this ')
-st.write('eASY STREAMLIT ')
-st.write('I love ADS ')
+
 
 st.text('Fixed width text')
 st.markdown('# Markdown') # see *
